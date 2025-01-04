@@ -44,7 +44,7 @@ for element in table_elements:
 # Cache data
 for element in table_elements:
     data.append({
-        "jacket": "https://www.sekaipedia.org" + element[0].find(name="a")['href'],
+        "jacket": "https:" + element[0].find(name="img")['srcset'].split(" ")[2],
         "name": element[1].text,
         "link": "https://www.sekaipedia.org" + element[1].find(name="a")['href'],
         "producer": [p.text for p in element[2].find("ul")],
