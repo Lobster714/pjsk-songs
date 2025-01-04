@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<link>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PJSK Song Database</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="scraper/data.json" defer></script>
+    <script src="app.js" defer></script>
+</head>
+<body>
+    <h1>PJSK Song Database</h1>
+
+    <div class="search-container">
+        <input type="text" placeholder="Search..." id="searchInput">
+    </div>
+
+    <table id="dataTable">
+        <thead>
+            <tr>
+                <th data-column="jacket" data-order="desc">Jacket</th>
+                <th data-column="name" data-order="desc">Song name</th>
+                <th data-column="producer" data-order="desc">Producer(s)</th>
+                <th data-column="unit" data-order="desc">Unit(s)</th>
+            </tr>
+        </thead>
+
+        <tbody>
+
+        </tbody>
+    </table>
+</body>
+</html>
