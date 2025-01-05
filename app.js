@@ -1,6 +1,4 @@
-// Reference to the search input field in the DOM
 const searchInput = document.getElementById('searchInput');
-// Add an event listener to handle input changes in the search field
 searchInput.addEventListener('keyup', handleSearch);
 
 fetch("https://raw.githubusercontent.com/Lobster714/pjsk-songs/refs/heads/master/scraper/data.json")
@@ -13,14 +11,29 @@ function renderTable(data) {
     const tableBody = document.querySelector('#dataTable tbody')
     tableBody.innerHTML = ""
     
-    data.forEach(item => {
+    data.forEach((item) => {
         const row = document.createElement('tr')
+        
+        const jacket = document.createElement('td')
+        const img = new Image(64, 64)
+        img.src = item["jacket"]
+        jacket.appendChild(img)
+        row.appendChild(jacket)
 
-        for (let key in item) {
-            const cell = document.createElement('td')
-            cell.textContent = item[key]
-            row.appendChild(cell)
-        }
+        const song_name = document.createElement('td')
+        const link = document.createElement('a')
+        link.href = item['link']
+        link.textContent = item['name']
+        song_name.appendChild(link)
+        row.appendChild(song_name)
+
+        const producer = document.createElement('td')
+        producer.innerHTML = item['producer'].toString().replaceAll(",", "<br>")
+        row.appendChild(producer)
+
+        const unit = document.createElement('td')
+        unit.innerHTML = item['unit'].toString().replaceAll(",", "<br>")
+        row.appendChild(unit)
 
         tableBody.appendChild(row)
     })
