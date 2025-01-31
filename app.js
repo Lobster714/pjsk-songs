@@ -33,11 +33,10 @@ function renderTable(data) {
 
         const producer = document.createElement('td')
         producer.innerHTML = item['producer'].toString().replaceAll(",", "<br>")
-        producer.innerHTML = producer.innerHTML.replaceAll("25-ji<br>", ",")
         row.appendChild(producer)
 
         const unit = document.createElement('td')
-        unit.innerHTML = item['unit'].toString().replaceAll(",", "<br>")
+        unit.innerHTML = item['unit'].toString().replaceAll(",", "<br>").replaceAll("25-ji<br>", "25-ji,")
         row.appendChild(unit)
 
         tableBody.appendChild(row)

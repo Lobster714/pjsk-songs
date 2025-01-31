@@ -38,7 +38,7 @@ counter = 0
 for element in table_elements:
     curr_element_children = element.find_all(name="td")
     del curr_element_children[0]
-    curr_element_children = curr_element_children[:4]
+    curr_element_children = curr_element_children[:7]
 
     table_elements[counter] = curr_element_children
     counter += 1
@@ -50,7 +50,10 @@ for element in table_elements:
         "name": element[1].text,
         "link": "https://www.sekaipedia.org" + element[1].find(name="a")['href'],
         "producer": [p.text for p in element[2].find("ul")],
-        "unit": [u.text for u in element[3].find("ul")]
+        "unit": [u.text for u in element[3].find("ul")],
+        "bpm": element[4].text,
+        "duration": element[5].text,
+        "release": element[6].text
     })
 
 # Write the data to a file
