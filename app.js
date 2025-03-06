@@ -39,6 +39,24 @@ function renderTable(data) {
         unit.innerHTML = item['unit'].toString().replaceAll(",", "<br>").replaceAll("25-ji<br>", "25-ji,")
         row.appendChild(unit)
 
+        const bpm = document.createElement('td')
+        bpm.innerHTML = item['bpm'].toString()
+        row.appendChild(bpm)
+
+        const duration = document.createElement('td')
+        duration.innerHTML = item['duration'].toString()
+        row.appendChild(duration)
+
+        const release = document.createElement('td')
+        const date = document.createElement('input')
+        const release_text = item['release'].toString()
+        date.type = "date"
+        date.value = release_text
+        date.min = release_text
+        date.max = release_text
+        release.appendChild(date)
+        row.appendChild(release)
+
         tableBody.appendChild(row)
     })
 }

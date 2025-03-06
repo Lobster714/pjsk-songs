@@ -176,7 +176,7 @@
     "name": "Inochi ni Kirawarete iru.",
     "link": "https://www.sekaipedia.org/wiki/Inochi_ni_Kirawarete_iru.",
     "producer": [
-      "Iori Kanzaki"
+      "Kanzaki Iori"
     ],
     "unit": [
       "25-ji, Nightcord de."
@@ -514,7 +514,7 @@
     "name": "Stella",
     "link": "https://www.sekaipedia.org/wiki/Stella",
     "producer": [
-      "Jin"
+      "JIN"
     ],
     "unit": [
       "Leo/need"
@@ -714,7 +714,7 @@
     "name": "Yobanashi Deceive",
     "link": "https://www.sekaipedia.org/wiki/Yobanashi_Deceive",
     "producer": [
-      "Jin"
+      "JIN"
     ],
     "unit": [
       "Vivid BAD SQUAD"
@@ -3439,20 +3439,6 @@
     "release": "2022-09-02"
   },
   {
-    "jacket": "https://static.wikitide.net/projectsekaiwiki/thumb/a/a0/Jacket274.png/128px-Jacket274.png",
-    "name": "Soredemo Ii nda yo",
-    "link": "https://www.sekaipedia.org/wiki/Soredemo_Ii_nda_yo",
-    "producer": [
-      "Ponchi\u266a"
-    ],
-    "unit": [
-      "VIRTUAL SINGER"
-    ],
-    "bpm": "132",
-    "duration": "2:08",
-    "release": "2022-08-26"
-  },
-  {
     "jacket": "https://static.wikitide.net/projectsekaiwiki/thumb/1/1f/Jacket275.png/128px-Jacket275.png",
     "name": "Paradichlorobenzene",
     "link": "https://www.sekaipedia.org/wiki/Paradichlorobenzene",
@@ -4468,8 +4454,8 @@
   },
   {
     "jacket": "https://static.wikitide.net/projectsekaiwiki/thumb/2/27/Jacket348.png/128px-Jacket348.png",
-    "name": "Akutoku no Judgement",
-    "link": "https://www.sekaipedia.org/wiki/Akutoku_no_Judgement",
+    "name": "Akutoku no Judgment",
+    "link": "https://www.sekaipedia.org/wiki/Akutoku_no_Judgment",
     "producer": [
       "mothy"
     ],
@@ -4837,8 +4823,8 @@
   },
   {
     "jacket": "https://static.wikitide.net/projectsekaiwiki/thumb/f/fd/Jacket375.png/128px-Jacket375.png",
-    "name": "Hoshi wo Tsunagu",
-    "link": "https://www.sekaipedia.org/wiki/Hoshi_wo_Tsunagu",
+    "name": "Hoshi o Tsunagu",
+    "link": "https://www.sekaipedia.org/wiki/Hoshi_o_Tsunagu",
     "producer": [
       "12340mP"
     ],
@@ -6317,6 +6303,20 @@
     "release": "2024-09-30"
   },
   {
+    "jacket": "https://static.wikitide.net/projectsekaiwiki/thumb/3/32/Jacket490.png/128px-Jacket490.png",
+    "name": "Rumor",
+    "link": "https://www.sekaipedia.org/wiki/Rumor",
+    "producer": [
+      "Police Piccadilly"
+    ],
+    "unit": [
+      "Vivid BAD SQUAD"
+    ],
+    "bpm": "140",
+    "duration": "2:03",
+    "release": "2025-02-21"
+  },
+  {
     "jacket": "https://static.wikitide.net/projectsekaiwiki/thumb/4/4c/Jacket491.png/128px-Jacket491.png",
     "name": "Cat Loving",
     "link": "https://www.sekaipedia.org/wiki/Cat_Loving",
@@ -6714,6 +6714,20 @@
     "release": "2024-10-06"
   },
   {
+    "jacket": "https://static.wikitide.net/projectsekaiwiki/thumb/f/f2/Jacket524.png/128px-Jacket524.png",
+    "name": "Soredemo Bokura wa Utau Koto o Yamenai",
+    "link": "https://www.sekaipedia.org/wiki/Soredemo_Bokura_wa_Utau_Koto_o_Yamenai",
+    "producer": [
+      "Aoki Go"
+    ],
+    "unit": [
+      "Leo/need"
+    ],
+    "bpm": "182",
+    "duration": "1:38",
+    "release": "2024-09-20"
+  },
+  {
     "jacket": "https://static.wikitide.net/projectsekaiwiki/thumb/a/ad/Jacket525.png/128px-Jacket525.png",
     "name": "Antenna 39",
     "link": "https://www.sekaipedia.org/wiki/Antenna_39",
@@ -6840,6 +6854,20 @@
     "release": "2025-01-03"
   },
   {
+    "jacket": "https://static.wikitide.net/projectsekaiwiki/thumb/f/f4/Jacket536.png/128px-Jacket536.png",
+    "name": "Fire\u25ceFlower (Rerec)",
+    "link": "https://www.sekaipedia.org/wiki/Fire%E2%97%8EFlower_(Rerec)",
+    "producer": [
+      "halyosy"
+    ],
+    "unit": [
+      "Other"
+    ],
+    "bpm": "153-175",
+    "duration": "1:44",
+    "release": "2025-03-02"
+  },
+  {
     "jacket": "https://static.wikitide.net/projectsekaiwiki/thumb/d/d0/Jacket541.png/128px-Jacket541.png",
     "name": "Main Character",
     "link": "https://www.sekaipedia.org/wiki/Main_Character",
@@ -6924,6 +6952,20 @@
     "release": "2024-10-31"
   },
   {
+    "jacket": "https://static.wikitide.net/projectsekaiwiki/thumb/9/91/Jacket547.png/128px-Jacket547.png",
+    "name": "Shuuen Touhikou",
+    "link": "https://www.sekaipedia.org/wiki/Shuuen_Touhikou",
+    "producer": [
+      "Hiiragi Magnetite"
+    ],
+    "unit": [
+      "Leo/need"
+    ],
+    "bpm": "147",
+    "duration": "1:40",
+    "release": "2025-02-01"
+  },
+  {
     "jacket": "https://static.wikitide.net/projectsekaiwiki/thumb/9/9a/Jacket548.png/128px-Jacket548.png",
     "name": "Boku no Kami-sama",
     "link": "https://www.sekaipedia.org/wiki/Boku_no_Kami-sama",
@@ -6978,6 +7020,21 @@
     "bpm": "150",
     "duration": "2:07",
     "release": "2025-01-02"
+  },
+  {
+    "jacket": "https://static.wikitide.net/projectsekaiwiki/thumb/6/6d/Jacket555.png/128px-Jacket555.png",
+    "name": "Fusion",
+    "link": "https://www.sekaipedia.org/wiki/Fusion",
+    "producer": [
+      "DECO*27",
+      "tepe"
+    ],
+    "unit": [
+      "Other"
+    ],
+    "bpm": "188",
+    "duration": "2:04",
+    "release": "2025-02-15"
   },
   {
     "jacket": "https://static.wikitide.net/projectsekaiwiki/thumb/9/94/Jacket556.png/128px-Jacket556.png",
@@ -7077,5 +7134,214 @@
     "bpm": "128",
     "duration": "2:01",
     "release": "2025-01-21"
+  },
+  {
+    "jacket": "https://static.wikitide.net/projectsekaiwiki/thumb/9/98/Jacket566.png/128px-Jacket566.png",
+    "name": "Panda Hero",
+    "link": "https://www.sekaipedia.org/wiki/Panda_Hero",
+    "producer": [
+      "Hachi"
+    ],
+    "unit": [
+      "VIRTUAL SINGER"
+    ],
+    "bpm": "190",
+    "duration": "1:40",
+    "release": "2025-01-22"
+  },
+  {
+    "jacket": "https://static.wikitide.net/projectsekaiwiki/thumb/e/e4/Jacket567.png/128px-Jacket567.png",
+    "name": "Musunde Hiraite Rasetsu to Mukuro",
+    "link": "https://www.sekaipedia.org/wiki/Musunde_Hiraite_Rasetsu_to_Mukuro",
+    "producer": [
+      "Hachi"
+    ],
+    "unit": [
+      "VIRTUAL SINGER"
+    ],
+    "bpm": "169.33",
+    "duration": "2:10",
+    "release": "2025-01-23"
+  },
+  {
+    "jacket": "https://static.wikitide.net/projectsekaiwiki/thumb/8/85/Jacket569.png/128px-Jacket569.png",
+    "name": "Secret Seeker",
+    "link": "https://www.sekaipedia.org/wiki/Secret_Seeker",
+    "producer": [
+      "YAMAGISHI KOJI"
+    ],
+    "unit": [
+      "VIRTUAL SINGER"
+    ],
+    "bpm": "180",
+    "duration": "1:54",
+    "release": "2024-12-16"
+  },
+  {
+    "jacket": "https://static.wikitide.net/projectsekaiwiki/thumb/a/a2/Jacket573.png/128px-Jacket573.png",
+    "name": "Hajimari no Mirai",
+    "link": "https://www.sekaipedia.org/wiki/Hajimari_no_Mirai",
+    "producer": [
+      "40mP",
+      "sasakure.UK"
+    ],
+    "unit": [
+      "VIRTUAL SINGER"
+    ],
+    "bpm": "156",
+    "duration": "2:14",
+    "release": "2024-12-28"
+  },
+  {
+    "jacket": "https://static.wikitide.net/projectsekaiwiki/thumb/e/e9/Jacket574.png/128px-Jacket574.png",
+    "name": "SToRY",
+    "link": "https://www.sekaipedia.org/wiki/SToRY",
+    "producer": [
+      "DECO*27",
+      "kemu"
+    ],
+    "unit": [
+      "Leo/need"
+    ],
+    "bpm": "192",
+    "duration": "1:37",
+    "release": "2025-02-06"
+  },
+  {
+    "jacket": "https://static.wikitide.net/projectsekaiwiki/thumb/c/ca/Jacket575.png/128px-Jacket575.png",
+    "name": "FUN!!",
+    "link": "https://www.sekaipedia.org/wiki/FUN!!",
+    "producer": [
+      "DECO*27",
+      "iyowa"
+    ],
+    "unit": [
+      "MORE MORE JUMP!"
+    ],
+    "bpm": "186",
+    "duration": "1:35",
+    "release": "2025-01-31"
+  },
+  {
+    "jacket": "https://static.wikitide.net/projectsekaiwiki/thumb/5/58/Jacket576.png/128px-Jacket576.png",
+    "name": "Fire Dance",
+    "link": "https://www.sekaipedia.org/wiki/Fire_Dance",
+    "producer": [
+      "DECO*27",
+      "Giga"
+    ],
+    "unit": [
+      "Vivid BAD SQUAD"
+    ],
+    "bpm": "140",
+    "duration": "1:32",
+    "release": "2025-01-25"
+  },
+  {
+    "jacket": "https://static.wikitide.net/projectsekaiwiki/thumb/8/86/Jacket577.png/128px-Jacket577.png",
+    "name": "Smile*Symphony",
+    "link": "https://www.sekaipedia.org/wiki/Smile*Symphony",
+    "producer": [
+      "DECO*27",
+      "Niru Kajitsu"
+    ],
+    "unit": [
+      "Wonderlands\u00d7Showtime"
+    ],
+    "bpm": "122",
+    "duration": "1:34",
+    "release": "2025-02-03"
+  },
+  {
+    "jacket": "https://static.wikitide.net/projectsekaiwiki/thumb/2/2b/Jacket578.png/128px-Jacket578.png",
+    "name": "Hello, SEKAI",
+    "link": "https://www.sekaipedia.org/wiki/Hello,_SEKAI",
+    "producer": [
+      "DECO*27",
+      "tepe"
+    ],
+    "unit": [
+      "VIRTUAL SINGER"
+    ],
+    "bpm": "148-152",
+    "duration": "1:45",
+    "release": "2025-02-09"
+  },
+  {
+    "jacket": "https://static.wikitide.net/projectsekaiwiki/thumb/4/43/Jacket579.png/128px-Jacket579.png",
+    "name": "Worlders",
+    "link": "https://www.sekaipedia.org/wiki/Worlders",
+    "producer": [
+      "JIN",
+      "TeddyLoid"
+    ],
+    "unit": [
+      "VIRTUAL SINGER",
+      "Leo/need",
+      "MORE MORE JUMP!",
+      "Vivid BAD SQUAD",
+      "Wonderlands\u00d7Showtime",
+      "25-ji, Nightcord de.",
+      "Other"
+    ],
+    "bpm": "137.5",
+    "duration": "2:13",
+    "release": "2025-01-29"
+  },
+  {
+    "jacket": "https://static.wikitide.net/projectsekaiwiki/thumb/f/fc/Jacket581.png/128px-Jacket581.png",
+    "name": "Chuubyou Gekihatsu Boy",
+    "link": "https://www.sekaipedia.org/wiki/Chuubyou_Gekihatsu_Boy",
+    "producer": [
+      "rerulili"
+    ],
+    "unit": [
+      "Wonderlands\u00d7Showtime"
+    ],
+    "bpm": "180-190",
+    "duration": "2:11",
+    "release": "2025-01-14"
+  },
+  {
+    "jacket": "https://static.wikitide.net/projectsekaiwiki/thumb/1/1f/Jacket582.png/128px-Jacket582.png",
+    "name": "Anti You",
+    "link": "https://www.sekaipedia.org/wiki/Anti_You",
+    "producer": [
+      "Chinozo"
+    ],
+    "unit": [
+      "MORE MORE JUMP!"
+    ],
+    "bpm": "129",
+    "duration": "1:59",
+    "release": "2025-02-10"
+  },
+  {
+    "jacket": "https://static.wikitide.net/projectsekaiwiki/thumb/3/3b/Jacket587.png/128px-Jacket587.png",
+    "name": "Rule Book",
+    "link": "https://www.sekaipedia.org/wiki/Rule_Book",
+    "producer": [
+      "Fujiwara Hagane"
+    ],
+    "unit": [
+      "VIRTUAL SINGER"
+    ],
+    "bpm": "200",
+    "duration": "2:05",
+    "release": "2025-02-12"
+  },
+  {
+    "jacket": "https://static.wikitide.net/projectsekaiwiki/thumb/9/96/Jacket593.png/128px-Jacket593.png",
+    "name": "Crystal Snow",
+    "link": "https://www.sekaipedia.org/wiki/Crystal_Snow",
+    "producer": [
+      "Aqu3ra"
+    ],
+    "unit": [
+      "VIRTUAL SINGER"
+    ],
+    "bpm": "135",
+    "duration": "1:45",
+    "release": "2025-02-08"
   }
 ]
