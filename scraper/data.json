@@ -3439,6 +3439,20 @@
     "release": "2022-09-02"
   },
   {
+    "jacket": "https://static.wikitide.net/projectsekaiwiki/thumb/a/a0/Jacket274.png/128px-Jacket274.png",
+    "name": "Soredemo Ii nda yo",
+    "link": "https://www.sekaipedia.org/wiki/Soredemo_Ii_nda_yo",
+    "producer": [
+      "Ponchi\u266a"
+    ],
+    "unit": [
+      "VIRTUAL SINGER"
+    ],
+    "bpm": "132",
+    "duration": "2:08",
+    "release": "2022-08-26"
+  },
+  {
     "jacket": "https://static.wikitide.net/projectsekaiwiki/thumb/1/1f/Jacket275.png/128px-Jacket275.png",
     "name": "Paradichlorobenzene",
     "link": "https://www.sekaipedia.org/wiki/Paradichlorobenzene",
@@ -6574,6 +6588,20 @@
     "release": "2025-01-19"
   },
   {
+    "jacket": "https://static.wikitide.net/projectsekaiwiki/thumb/2/2d/Jacket509.png/128px-Jacket509.png",
+    "name": "Liar Dancer",
+    "link": "https://www.sekaipedia.org/wiki/Liar_Dancer",
+    "producer": [
+      "masarada"
+    ],
+    "unit": [
+      "Wonderlands\u00d7Showtime"
+    ],
+    "bpm": "170",
+    "duration": "2:03",
+    "release": "2025-03-10"
+  },
+  {
     "jacket": "https://static.wikitide.net/projectsekaiwiki/thumb/a/a9/Jacket511.png/128px-Jacket511.png",
     "name": "Kisaragi Attention",
     "link": "https://www.sekaipedia.org/wiki/Kisaragi_Attention",
@@ -6684,6 +6712,34 @@
     "bpm": "103",
     "duration": "2:02",
     "release": "2024-08-23"
+  },
+  {
+    "jacket": "https://static.wikitide.net/projectsekaiwiki/thumb/d/da/Jacket520.png/128px-Jacket520.png",
+    "name": "Toumei Elegy",
+    "link": "https://www.sekaipedia.org/wiki/Toumei_Elegy",
+    "producer": [
+      "n-buna"
+    ],
+    "unit": [
+      "Leo/need"
+    ],
+    "bpm": "220",
+    "duration": "2:03",
+    "release": "2025-03-17"
+  },
+  {
+    "jacket": "https://static.wikitide.net/projectsekaiwiki/thumb/7/77/Jacket521.png/128px-Jacket521.png",
+    "name": "Override",
+    "link": "https://www.sekaipedia.org/wiki/Override",
+    "producer": [
+      "Yoshida Yasei"
+    ],
+    "unit": [
+      "MORE MORE JUMP!"
+    ],
+    "bpm": "204",
+    "duration": "2:00",
+    "release": "2025-03-07"
   },
   {
     "jacket": "https://static.wikitide.net/projectsekaiwiki/thumb/a/ad/Jacket522.png/128px-Jacket522.png",
@@ -6866,6 +6922,20 @@
     "bpm": "153-175",
     "duration": "1:44",
     "release": "2025-03-02"
+  },
+  {
+    "jacket": "https://static.wikitide.net/projectsekaiwiki/thumb/1/1f/Jacket537.png/128px-Jacket537.png",
+    "name": "Hana ni Kaze",
+    "link": "https://www.sekaipedia.org/wiki/Hana_ni_Kaze",
+    "producer": [
+      "balloon"
+    ],
+    "unit": [
+      "Vivid BAD SQUAD"
+    ],
+    "bpm": "148",
+    "duration": "2:08",
+    "release": "2025-04-08"
   },
   {
     "jacket": "https://static.wikitide.net/projectsekaiwiki/thumb/d/d0/Jacket541.png/128px-Jacket541.png",
@@ -7289,6 +7359,20 @@
     "release": "2025-01-29"
   },
   {
+    "jacket": "https://static.wikitide.net/projectsekaiwiki/thumb/7/7e/Jacket580.png/128px-Jacket580.png",
+    "name": "Mikazuki Step",
+    "link": "https://www.sekaipedia.org/wiki/Mikazuki_Step",
+    "producer": [
+      "r-906"
+    ],
+    "unit": [
+      "Vivid BAD SQUAD"
+    ],
+    "bpm": "167",
+    "duration": "2:02",
+    "release": "2025-03-03"
+  },
+  {
     "jacket": "https://static.wikitide.net/projectsekaiwiki/thumb/f/fc/Jacket581.png/128px-Jacket581.png",
     "name": "Chuubyou Gekihatsu Boy",
     "link": "https://www.sekaipedia.org/wiki/Chuubyou_Gekihatsu_Boy",
@@ -7331,6 +7415,77 @@
     "release": "2025-02-12"
   },
   {
+    "jacket": "https://static.wikitide.net/projectsekaiwiki/thumb/c/c7/Jacket588.png/128px-Jacket588.png",
+    "name": "Planet Hero",
+    "link": "https://www.sekaipedia.org/wiki/Planet_Hero",
+    "producer": [
+      "D-D-Dice",
+      "irucaice"
+    ],
+    "unit": [
+      "VIRTUAL SINGER"
+    ],
+    "bpm": "200",
+    "duration": "2:01",
+    "release": "2025-03-14"
+  },
+  {
+    "jacket": "https://static.wikitide.net/projectsekaiwiki/thumb/8/80/Jacket589.png/128px-Jacket589.png",
+    "name": "Balleriko",
+    "link": "https://www.sekaipedia.org/wiki/Balleriko",
+    "producer": [
+      "mikitoP"
+    ],
+    "unit": [
+      "VIRTUAL SINGER"
+    ],
+    "bpm": "150",
+    "duration": "2:09",
+    "release": "2025-04-05"
+  },
+  {
+    "jacket": "https://static.wikitide.net/projectsekaiwiki/thumb/e/e0/Jacket590.png/128px-Jacket590.png",
+    "name": "MANHATTAN",
+    "link": "https://www.sekaipedia.org/wiki/MANHATTAN",
+    "producer": [
+      "wotaku"
+    ],
+    "unit": [
+      "VIRTUAL SINGER"
+    ],
+    "bpm": "140",
+    "duration": "2:11",
+    "release": "2025-04-03"
+  },
+  {
+    "jacket": "https://static.wikitide.net/projectsekaiwiki/thumb/c/cf/Jacket591.png/128px-Jacket591.png",
+    "name": "Yoshiwara Lament -Sairai-ban-",
+    "link": "https://www.sekaipedia.org/wiki/Yoshiwara_Lament_-Sairai-ban-",
+    "producer": [
+      "Asa"
+    ],
+    "unit": [
+      "VIRTUAL SINGER"
+    ],
+    "bpm": "192",
+    "duration": "2:16",
+    "release": "2025-04-02"
+  },
+  {
+    "jacket": "https://static.wikitide.net/projectsekaiwiki/thumb/8/8b/Jacket592.png/128px-Jacket592.png",
+    "name": "Queen of Hearts",
+    "link": "https://www.sekaipedia.org/wiki/Queen_of_Hearts_(song)",
+    "producer": [
+      "Kanon69"
+    ],
+    "unit": [
+      "VIRTUAL SINGER"
+    ],
+    "bpm": "235",
+    "duration": "2:04",
+    "release": "2025-04-04"
+  },
+  {
     "jacket": "https://static.wikitide.net/projectsekaiwiki/thumb/9/96/Jacket593.png/128px-Jacket593.png",
     "name": "Crystal Snow",
     "link": "https://www.sekaipedia.org/wiki/Crystal_Snow",
@@ -7343,5 +7498,118 @@
     "bpm": "135",
     "duration": "1:45",
     "release": "2025-02-08"
+  },
+  {
+    "jacket": "https://static.wikitide.net/projectsekaiwiki/thumb/4/4f/Jacket594.png/128px-Jacket594.png",
+    "name": "Call!!",
+    "link": "https://www.sekaipedia.org/wiki/Call!!",
+    "producer": [
+      "Matsubi"
+    ],
+    "unit": [
+      "VIRTUAL SINGER"
+    ],
+    "bpm": "108",
+    "duration": "1:42",
+    "release": "2025-03-31"
+  },
+  {
+    "jacket": "https://static.wikitide.net/projectsekaiwiki/thumb/b/b0/Jacket596.png/128px-Jacket596.png",
+    "name": "D/N/A",
+    "link": "https://www.sekaipedia.org/wiki/D/N/A",
+    "producer": [
+      "Azari"
+    ],
+    "unit": [
+      "25-ji, Nightcord de."
+    ],
+    "bpm": "150",
+    "duration": "2:09",
+    "release": "2025-03-20"
+  },
+  {
+    "jacket": "https://static.wikitide.net/projectsekaiwiki/thumb/7/78/Jacket603.png/128px-Jacket603.png",
+    "name": "Do Re Mi Fa Rondo",
+    "link": "https://www.sekaipedia.org/wiki/Do_Re_Mi_Fa_Rondo",
+    "producer": [
+      "40mP"
+    ],
+    "unit": [
+      "Wonderlands\u00d7Showtime"
+    ],
+    "bpm": "125",
+    "duration": "2:10",
+    "release": "2025-03-24"
+  },
+  {
+    "jacket": "https://static.wikitide.net/projectsekaiwiki/thumb/b/bc/Jacket604.png/128px-Jacket604.png",
+    "name": "Packaged",
+    "link": "https://www.sekaipedia.org/wiki/Packaged",
+    "producer": [
+      "kz (livetune)"
+    ],
+    "unit": [
+      "VIRTUAL SINGER"
+    ],
+    "bpm": "125",
+    "duration": "2:09",
+    "release": "2025-03-09"
+  },
+  {
+    "jacket": "https://static.wikitide.net/projectsekaiwiki/thumb/1/1a/Jacket605.png/128px-Jacket605.png",
+    "name": "Sympathy",
+    "link": "https://www.sekaipedia.org/wiki/Sympathy",
+    "producer": [
+      "Eve",
+      "Numa"
+    ],
+    "unit": [
+      "Leo/need"
+    ],
+    "bpm": "184",
+    "duration": "1:37",
+    "release": "2025-03-30"
+  },
+  {
+    "jacket": "https://static.wikitide.net/projectsekaiwiki/thumb/d/d3/Jacket606.png/128px-Jacket606.png",
+    "name": "Suicide Parade",
+    "link": "https://www.sekaipedia.org/wiki/Suicide_Parade",
+    "producer": [
+      "YurryCanon"
+    ],
+    "unit": [
+      "25-ji, Nightcord de."
+    ],
+    "bpm": "176",
+    "duration": "1:55",
+    "release": "2025-04-14"
+  },
+  {
+    "jacket": "https://static.wikitide.net/projectsekaiwiki/thumb/d/d7/Jacket607.png/128px-Jacket607.png",
+    "name": "Mawaru Sora Usagi",
+    "link": "https://www.sekaipedia.org/wiki/Mawaru_Sora_Usagi",
+    "producer": [
+      "Orangestar"
+    ],
+    "unit": [
+      "MORE MORE JUMP!"
+    ],
+    "bpm": "120",
+    "duration": "2:12",
+    "release": "2025-04-22"
+  },
+  {
+    "jacket": "https://static.wikitide.net/projectsekaiwiki/thumb/9/9a/Jacket608.png/128px-Jacket608.png",
+    "name": "Hoshizora Melancholia",
+    "link": "https://www.sekaipedia.org/wiki/Hoshizora_Melancholia",
+    "producer": [
+      "yuichi NAGAO"
+    ],
+    "unit": [
+      "VIRTUAL SINGER"
+    ],
+    "bpm": "196",
+    "duration": "2:03",
+    "release": "2025-04-18"
   }
 ]
